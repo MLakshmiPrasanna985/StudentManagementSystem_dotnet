@@ -1,0 +1,19 @@
+Authentication:
+Authorization:
+JWT:JSON WEB TOKEN
+Token which weused to call at every end point
+that token will be used at each very crup operation \\\
+
+new controller->AuthController ->methods -> Login method with username and password and we have to pass jwt token
+System.IdentityModel.Tokens.Jwt
+
+public IHttpActionResult Login(string username ,string password)
+{
+  if (login.Username == "Test" && login. Password == "Test123")
+{
+ 
+   return Ok( tokenString });
+}
+ 
+return Unauthorized();
+}

@@ -1,0 +1,9 @@
+C:\Users\prasanna.mudige\source\repos\StudentsRepository\StudentsRepository_Test\bin\Debug\net10.0\.msCoverageExtensionSourceRootsMapping_StudentsRepository_Test
+C:\Users\prasanna.mudige\source\repos\StudentsRepository\StudentsRepository_Test\bin\Debug\net10.0\.msCoverageSourceRootsMapping_StudentsRepository_Test
+C:\Users\prasanna.mudige\source\repos\StudentsRepository\StudentsRepository_Test\obj\Debug\net10.0\StudentsRepository_Test.csproj.AssemblyReference.cache
+C:\Users\prasanna.mudige\source\repos\StudentsRepository\StudentsRepository_Test\obj\Debug\net10.0\StudentsRepository_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prasanna.mudige\source\repos\StudentsRepository\StudentsRepository_Test\obj\Debug\net10.0\StudentsRepository_Test.gentestingplatformentrypointinputcache.cache
+C:\Users\prasanna.mudige\source\repos\StudentsRepository\StudentsRepository_Test\obj\Debug\net10.0\StudentsRepository_Test.genautoregisteredextensionsinputcache.cache
+C:\Users\prasanna.mudige\source\repos\StudentsRepository\StudentsRepository_Test\obj\Debug\net10.0\StudentsRepository_Test.AssemblyInfoInputs.cache
+C:\Users\prasanna.mudige\source\repos\StudentsRepository\StudentsRepository_Test\obj\Debug\net10.0\StudentsRepository_Test.AssemblyInfo.cs
+C:\Users\prasanna.mudige\source\repos\StudentsRepository\StudentsRepository_Test\obj\Debug\net10.0\StudentsRepository_Test.csproj.CoreCompileInputs.cache
